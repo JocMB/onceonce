@@ -4291,10 +4291,10 @@ visibility: hidden;
 
 
 .buttonentradas {
-  --bg: #e0572e;
-  --hover-bg: #ffffff;
-  --hover-text: #e0572e;
-  color: #fff;
+  --bg: #ADFF03;
+  --hover-bg: #000000;
+  --hover-text: #ADFF03;
+  color: #000000;
   cursor: pointer;
   border: 1px solid var(--bg);
   border-radius: 4px;
